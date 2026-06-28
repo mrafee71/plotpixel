@@ -51,11 +51,11 @@ export default function AboutSection() {
             </p>
 
             <Link
-                    href="https://wa.me/916238859386?text=Hi%20PlotPixel!%20I%20would%20like%20to%20know%20more%20about%20your%20photography%20services."
+                    href="https://www.instagram.com/plot.pixel_/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="rounded-full bg-red-600 px-8 py-3 font-medium text-white transition hover:scale-105">
-              Learn More
+              Follow Us
             </Link>
           </div>
 
